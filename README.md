@@ -4,11 +4,11 @@
 
 #### Inspiration:
 
-It is inconvenient that people will encounter problems when shopping for a large number of items but they don’t actually need that amount. For example, when shopping at wholesale, the item usually includes the number for a family to use for weeks or months.
+It is annoying that people will experience issues after purchasing a lot of products when they don't actually need that many. For instance, when buying in bulk, the item typically comes with the number that a family can use for a few weeks or months.
 
 #### What it does:
 
-We are creating an application that can help people find the items they would like to buy and share with other families or students, to save more money and make shopping more accessible. People tend to waste it or don’t know how to deal with the extra items that they don’t need. Our application can help people find the item that they need and share it with others who have the same need.
+To help individuals identify the products they want to buy and share with other families or students, as well as to help them save money and make shopping easier, we are developing an application. People frequently waste it or are unsure of what to do with extra stuff they don't need. Using our software, users may share the thing they need with those who are in need of it and locate it themselves.
 
 #### How we built it:
 
