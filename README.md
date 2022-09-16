@@ -1,5 +1,3 @@
-# Team005-MRKT
-
 # GROUP BUY
 
 #### Video Demo: <https://www.youtube.com/watch?v=xnb59A2XoEk>
